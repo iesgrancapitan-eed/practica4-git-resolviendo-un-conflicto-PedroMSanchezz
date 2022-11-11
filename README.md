@@ -34,6 +34,7 @@
 
 10.Muestra de nuevo el estado del repositorio de forma gráfica y resumida
 
+    - Git log --graph
 
 11.Vuelve a la rama master y realiza otro merge. Es una fusión fast-forward. Los dos commits a fusionar tienen relación de ancestro. Entonces el merge no produce un commit nuevo, sencillamente avanza la rama, "avance rápido"
 
