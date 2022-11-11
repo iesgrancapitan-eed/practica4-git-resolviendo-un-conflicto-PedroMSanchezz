@@ -20,6 +20,7 @@
 
 6.Muestra el estado del repositorio de forma gráfica y resumida
 
+    - Git log --graph
 
 7.Haz un merge a rama-1. Intentas fusionar ambas ramas. Aparecerá un conflicto porque ambos commits trabajan en la misma porción <body></body> de un mismo archivo index.html. Git no será capaz de fusionarlas directamente. 
 
