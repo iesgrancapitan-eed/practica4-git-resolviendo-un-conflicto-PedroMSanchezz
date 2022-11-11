@@ -8,10 +8,11 @@
 
 3.Crea y salta a "rama-1". Avanza en un commit con tu nombre de pila en un párrafo dentro del body
 
-
+    - Git checkout -b rama-1 (se modifica el index.html) git add . | git commit -m " " | git push origin rama-1
 
 4.Vuelve a la rama master
 
+    - Git switch main
 
 5.Crea y salta a "rama-2". Avanza en un commit con tu apellido en un párrafo dentro del body
 
