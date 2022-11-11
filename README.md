@@ -16,6 +16,7 @@
 
 5.Crea y salta a "rama-2". Avanza en un commit con tu apellido en un párrafo dentro del body
 
+    - Git checkout -b rama-2 (se modifica el index.html) git add. | git commit -m " " | git push origin rama-2
 
 6.Muestra el estado del repositorio de forma gráfica y resumida
 
